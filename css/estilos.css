@@ -1,0 +1,40 @@
+body{
+    
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+  margin: auto;
+}
+
+
+header{
+    text-align: center;
+}
+
+td, th {
+  border: 1px solid black;
+;
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(odd) {
+    background-color: #fd6571;
+  }
+  
+tr:nth-child(even) {
+  background-color: #4cc0ee ;
+}
+
+
+.alinear-imagen {
+    display: block;
+    margin: auto;  
+    width: 200px;  
+    height: auto; 
+}
+
+.agrandar {
+    font-size: 24px;
+}}
